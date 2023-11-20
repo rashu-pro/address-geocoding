@@ -1,0 +1,25 @@
+{
+  "name": "address-geocoding",
+  "version": "1.0.0",
+  "description": "validate and geocode addresses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashu-pro/address-geocoding.git"
+  },
+  "keywords": [
+    "address",
+    "geocode",
+    "latitude",
+    "longitude"
+  ],
+  "author": "@rashu-pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashu-pro/address-geocoding/issues"
+  },
+  "homepage": "https://github.com/rashu-pro/address-geocoding#readme"
+}
