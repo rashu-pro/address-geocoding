@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {
+    "papaparse": "5.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rashu-pro/address-geocoding.git"
